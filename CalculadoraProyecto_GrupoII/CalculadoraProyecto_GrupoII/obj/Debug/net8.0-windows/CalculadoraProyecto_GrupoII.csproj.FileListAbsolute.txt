@@ -1,0 +1,16 @@
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\bin\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.exe
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\bin\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.deps.json
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\bin\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.runtimeconfig.json
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\bin\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.dll
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\bin\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.pdb
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.Form1.resources
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.csproj.GenerateResource.cache
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.AssemblyInfoInputs.cache
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.AssemblyInfo.cs
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.csproj.CoreCompileInputs.cache
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.dll
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\refint\CalculadoraProyecto_GrupoII.dll
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.pdb
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\CalculadoraProyecto_GrupoII.genruntimeconfig.cache
+C:\Users\Zuper\OneDrive\Documentos\ProyectoProgra\CalculadoraProyecto_GrupoII\CalculadoraProyecto_GrupoII\obj\Debug\net8.0-windows\ref\CalculadoraProyecto_GrupoII.dll
